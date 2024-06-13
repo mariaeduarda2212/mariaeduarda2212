@@ -22,7 +22,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mariaeduarda2212&theme=darcula&hide_border=true&background=FFFFFF00&stroke=A7A459&ring=A7A459&fire=A7A459&currStreakLabel=A7A459&dates=C0C0C0&sideNums=C0C0C0&currStreakNum=C0C0C0">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="aveek.saha" /></a>
+  <a href="https://www.buymeacoffee.com/designergrt"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="designergrt" /></a>
 </p>
 
 
