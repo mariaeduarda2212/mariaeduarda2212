@@ -11,10 +11,10 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/duda25/)
+[![](https://img.shields.io/badge/discord-6364ff)]()
+[![](https://img.shields.io/badge/instagram-ff66ab)]()
+[![](https://img.shields.io/badge/patreon-69899c)](https://www.patreon.com/c/frontdash/shop)
     
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mariaeduarda2212&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=A7A459&icon_color=A7A459" alt="GitHub Stats">
@@ -22,7 +22,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaeduarda2212&theme=darcula&hide_border=true&background=FFFFFF00&stroke=A7A459&ring=A7A459&fire=A7A459&currStreakLabel=A7A459&dates=C0C0C0&sideNums=C0C0C0&currStreakNum=C0C0C0" alt="GitHub Streak Stats">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/designergrt"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="designergrt" /></a>
+  <a href="https://www.patreon.com/c/frontdash/shop"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="designergrt" /></a>
 </p>
 
 
