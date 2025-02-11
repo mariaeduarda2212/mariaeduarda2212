@@ -12,8 +12,8 @@
 <br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/duda25/)
-[![](https://img.shields.io/badge/discord-6364ff)]()
-[![](https://img.shields.io/badge/instagram-ff66ab)]()
+[![](https://img.shields.io/badge/discord-6364ff)](https://discord.gg/vkqQuBeV)
+[![](https://img.shields.io/badge/instagram-ff66ab)](https://www.instagram.com/designer.graf2020/?hl=pt-br)
 [![](https://img.shields.io/badge/patreon-69899c)](https://www.patreon.com/c/frontdash/shop)
     
 <p align="center">
